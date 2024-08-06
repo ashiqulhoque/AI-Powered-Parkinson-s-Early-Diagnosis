@@ -1,0 +1,7 @@
+venv/
+*.xml
+*.iml
+recordingAudio.wav
+py10
+py8
+lib/
